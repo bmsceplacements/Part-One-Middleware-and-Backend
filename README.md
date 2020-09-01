@@ -1,12 +1,12 @@
 # Essential Concepts & Inputs for B.M.S.C.E Students(3rd Year)
 ![Brochure Logo](/images/lecturelogo.png)
 ## organised by Information Science and Engineering Department
-## Dr. M Dakshayani (HOD)
-## Nilansh Thakur
+##                Dr. M Dakshayani (HOD)
+##                Nilansh Thakur
 
 
 ### Part-One-Middleware-and-Backend
-![Brochure part one](/images/Part One final.png)
+![Brochure part one](/images/partonefinal.png)
 ### Duration- 1 Hr.
 
 ### Topics covered in this lecture:
