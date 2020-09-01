@@ -6,7 +6,7 @@
 
 
 ### Part-One-Middleware-and-Backend
-![Brochure part one](/images/partonefinal(1).jpg.png)
+![Brochure part one](/images/partonefinal(2).png)
 ### Duration- 1 Hr.
 
 ### Topics covered in this lecture:
