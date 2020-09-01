@@ -9,7 +9,7 @@
 ![Brochure part one](/images/partonefinal(2).png)
 ### Duration- 1 Hr.
 
-### Topics covered in this lecture:
+### Topics in this lecture:
   * Introduction to database middleware, phpmyadmin hosting platforms and backend connection using Java, JavaScript and Python
   * Discussion on essential frameworks to develop application software
 ### Prerequisites:
