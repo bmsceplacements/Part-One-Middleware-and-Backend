@@ -13,7 +13,7 @@
   * Introduction to database middleware, phpmyadmin hosting platforms and backend connection using Java, JavaScript and Python
   * Discussion on essential frameworks to develop application software
 ### Prerequisites:
-  *Database Management Systems, Java Programming(Preferable)
-  *Understanding basic concepts of server connection and cloud storage
+  * Database Management Systems, Java Programming(Preferable)
+  * Understanding basic concepts of server connection and cloud storage
   
   
