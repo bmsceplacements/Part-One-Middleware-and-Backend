@@ -2,7 +2,8 @@
 ![Brochure Logo](/images/lecturelogo.png)
 ## organised by Information Science and Engineering Department
 ##                Dr. M Dakshayani (HOD)
-##                Nilansh Thakur
+##                Student Facilitator-Nilansh Thakur
+##                Coordinated by- Dr. Roopa R
 
 
 ### Part-One-Middleware-and-Backend
